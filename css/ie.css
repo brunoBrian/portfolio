@@ -1,0 +1,26 @@
+.post-content{
+	font-family: 'sansa_soft_stdlight';
+}
+.comentarios{
+              
+  position: relative;
+  border: 1px solid #d0630e;
+  border-radius: 0px 0px 10px 10px;
+  margin: -10px 22px 40px 24px;
+  height: 335px;
+  overflow: scroll;
+  overflow-x: hidden; 
+}
+hr{
+	width: 721px;
+	margin: -17px 77px 20px 40px !important;
+}
+.mail{
+	font-weight: bold;
+	margin-left: 197px;
+}
+.descricao{
+	font-family: 'sansa_soft_stdlight';
+	font-weight: normal;
+
+}
